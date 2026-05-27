@@ -100,7 +100,7 @@ middleware: [
 npm install
 
 # Configure environment variables
-cp .env.example .env
+add .env File
 # Add your OPENAI_API_KEY and ANTHROPIC_API_KEY to .env
 ```
 
